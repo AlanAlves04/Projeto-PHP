@@ -1,4 +1,4 @@
 # Application-Word!
 
- Primeiro repositório **Git e GitHub**
+ Primeiro repositório **Git e GitHub** 😇
 
