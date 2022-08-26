@@ -1,4 +1,3 @@
 # Application-Word!
 
- Primeiro repositório **Git e GitHub** 😇
-
+Em busca de se tornar Full stack, desenvolvedor de front-end e back-end.
